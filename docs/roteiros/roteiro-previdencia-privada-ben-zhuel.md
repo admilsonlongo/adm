@@ -139,26 +139,42 @@ Isso tem nome: **reciprocidade**. A previdência virou moeda de troca. E um prod
 - TradeMap, 11/01/2022: *"Taxas podem comer mais de um terço do retorno da sua previdência"*
 
 **[BEN]**
-"Isso não é teoria. Um levantamento da Quantum Axis com a Empiricus, de 2022, pegou fundos de previdência dos maiores bancos do país, que juntos somavam **R$ 76 bilhões**. No período analisado, o CDI rendeu 5%. Olha o que esses fundos entregaram:"
+"Isso não é teoria. A gente puxou os dados oficiais da CVM, de todos os fundos de previdência do país, até novembro de 2026. E olha só: hoje existem mais de **R$ 160 bilhões** em fundos de previdência conservadores que cobram **1,5% ao ano ou mais**. Nos últimos cinco anos, esses fundos entregaram, em média, só **80% do CDI**. Os fundos baratos, que investem no mesmo tipo de ativo, entregaram praticamente **100%**.
 
-**[TELA]** Gráfico de barras, com o CDI como linha de referência:
+Agora, os nomes. Esses são fundos de renda fixa, conservadores, que deveriam andar colados no CDI. Olha o que eles entregaram em **10 anos**:"
 
-| Fundo (como citado na fonte) | Instituição | Retorno no período | CDI no período |
-|---|---|---|---|
-| BrasilPrev | Banco do Brasil | 2,55% | 5,00% |
-| Bradesco VGBL | Bradesco | 3,55% | 5,00% |
-| Caixa 70 | Caixa | 3,57% | 5,00% |
-| Itaú FlexPrev | Itaú | 3,99% | 5,00% |
-| Santander XVII | Santander | 4,91% | 5,00% |
+**[TELA]** Gráfico de barras horizontais, com linha vertical em 100% = CDI. CNPJ em letra pequena sob cada nome.
 
-*Fonte: Quantum Axis / Empiricus, via Money Times (fev/2022). Período: jan/2021 a jan/2022.*
+| Fundo | Taxa de adm. | Patrimônio | % do CDI em 10 anos | R$ 100 mil viraram |
+|---|---|---|---|---|
+| Caixa 300 Previdenciário | 3,00% a.a. | R$ 4,9 bi | **60%** | R$ 182,7 mil |
+| Caixa 250 Previdenciário | 2,50% a.a. | R$ 4,7 bi | 67% | R$ 192,0 mil |
+| BrasilPrev RT Fix | 2,00% a.a. | R$ 4,1 bi | 70% | R$ 196,7 mil |
+| Bradesco VGBL Fix | 2,00% a.a. | R$ 4,9 bi | 72% | R$ 198,1 mil |
+| Itaú Flexprev I | 1,75% a.a. | R$ 1,6 bi | 73% | R$ 200,2 mil |
+| Santander I RF Créd. Privado | 3,20% a.a. | R$ 0,7 bi | 73% | R$ 200,5 mil |
+| BrasilPrev RT Fix V | 2,00% a.a. | R$ 8,4 bi | 76% | R$ 204,0 mil |
+| **CDI** | | | **100%** | **R$ 237,2 mil** |
+
+*Fonte: CVM (cotas diárias e extratos) e Banco Central. Período: 17/11/2016 a 17/11/2026. Rentabilidade líquida de taxa de administração, sem carregamento e sem IR. Rentabilidade passada não garante rentabilidade futura.*
 
 **[BEN]**
-"Em outro ranking, da casa de análise Spiti, o primeiro lugar entre os fundos conservadores **mais nocivos ao investidor** foi o **BrasilPrev RT Fix II**, um fundo com cerca de **R$ 29 bilhões** de patrimônio e taxa de administração de **1,5% ao ano**. Em 12 meses até setembro de 2021, ele rendeu **1,16%**, enquanto o CDI rendeu **3,42%**. Ficou com um terço do CDI.
+"O pior da lista, o **Caixa 300**, cobra **3% ao ano** num fundo de renda fixa. Em dez anos, entregou **60% do CDI**. Quem colocou R$ 100 mil lá tem hoje uns R$ 183 mil. No CDI, teria R$ 237 mil. São **R$ 54 mil a menos**, de um dinheiro que era seu.
 
-E no longo prazo é ainda pior. Um estudo da L4 Capital olhou fundos desde 1996 e chegou num número assustador: os fundos de previdência tiveram retorno médio de **1,42% ao ano**, enquanto a **inflação média foi de 6,7% ao ano** no mesmo período. Ou seja, na média, quem ficou parado num fundo ruim **perdeu poder de compra** por quase três décadas."
+E sabe o detalhe? Na Caixa, o número no nome do fundo é a própria taxa: o Caixa 300 cobra 3%, o 250 cobra 2,5%, o 70 cobra 0,7%. Mesma casa, mesma estratégia. O Caixa 70 entregou 94% do CDI em dez anos. O Caixa 300, 60%. A única diferença relevante é **quanto você paga**."
 
-**[NOTA]** Esses dados são de 2021 a 2023. Na edição, sempre mostrar fonte e data na tela. Antes da gravação, se possível, atualizar os números com uma consulta recente (Quantum Axis, Mais Retorno ou data.anbima.com.br) para os mesmos fundos. Ver seção "Cuidados" ao final.
+**[BEN]**
+"E não é só renda fixa. Olha este aqui: **Bradesco VGBL V1530**, um fundo **multimercado**. Multimercado assume mais risco justamente para tentar ganhar do CDI. Ele cobra **3% ao ano** e, em 1, 3, 5 e 10 anos, entregou sempre perto de **79% do CDI**. Mais risco, mais taxa, menos retorno."
+
+**[BEN]**
+"E perder para a inflação? Também aconteceu. Entre **novembro de 2018 e novembro de 2021**, com juros baixos, a inflação foi de quase 18%. O **Caixa 300 rendeu 5%**. Resultado: quem estava nele **perdeu quase 11% do poder de compra** em três anos. O dinheiro ficou 'investido' e, no fim, comprava menos do que antes."
+
+**[TELA]** Duas barras: IPCA 17,9% × Caixa 300 5,0%. Lettering: *"−10,9% de poder de compra"*.
+
+**[NOTA]** Todos os números estão no arquivo `levantamento-previdencias-ruins-2026.md` (com CNPJ, metodologia e planilha). Na edição, mostrar o CNPJ e a data-base em todas as telas com nomes de fundos. No período 2018–2021 até o CDI perdeu da inflação (10,0% contra 17,9%). Se alguém questionar, a resposta é: "o fundo perdeu quase o dobro do CDI".
+
+**[BEN – contexto histórico, opcional]**
+"E isso vem de longe. Um estudo da L4 Capital, olhando fundos desde 1996, mostrou que os fundos de previdência renderam em média **1,42% ao ano**, contra uma **inflação média de 6,7%**."
 
 ### Vilão 2 – Taxa de administração alta
 
@@ -228,7 +244,7 @@ Se você quer saber se a sua previdência está no grupo bom ou no grupo ruim, [
 
 ## Cortes sugeridos para Reels/Shorts (30–60 s cada)
 
-1. **"Previdência que perdeu para a inflação"** – trecho do estudo L4 (1,42% a.a. vs 6,7% de inflação).
+1. **"O fundo que cobra 3% e entrega 60% do CDI"** – Caixa 300 x Caixa 70 (o número no nome é a taxa).
 2. **"Come-cotas: o imposto que você nem vê"** – simulação dos R$ 107 mil.
 3. **"Previdência como moeda de troca"** – trecho da reciprocidade com o gerente.
 4. **"A taxa que te faz começar perdendo"** – carregamento de 5%.
@@ -238,7 +254,7 @@ Se você quer saber se a sua previdência está no grupo bom ou no grupo ruim, [
 
 ## Cuidados antes de gravar (compliance e jurídico)
 
-- **Dados de fundos são de 2021–2023.** Mostrar sempre a fonte e a data na tela. Falar "num levantamento de 2022" e não "hoje o fundo X rende Y". Se possível, atualizar com dados recentes antes da gravação.
+- **Dados de fundos:** a tabela principal usa dados oficiais da CVM até 17/11/2026 (ver `levantamento-previdencias-ruins-2026.md`). Mostrar sempre o CNPJ, a fonte e a data-base na tela. Se a gravação atrasar muito, refazer o cálculo com a data nova.
 - **Nomear instituições com cuidado.** Os nomes vêm de reportagens publicadas e de reclamações públicas. Citar sempre como "segundo o levantamento X" / "relato de consumidor". Evitar adjetivos do apresentador sobre as instituições (ex.: "golpe", "roubo").
 - **Reclame Aqui:** confirmar manualmente cada reclamação antes de usar o print e borrar dados pessoais.
 - **Simulações:** são ilustrativas, com premissas fixas. Manter a nota de rodapé na tela.
@@ -250,6 +266,7 @@ Se você quer saber se a sua previdência está no grupo bom ou no grupo ruim, [
 ## Fontes do levantamento
 
 **Rentabilidade e taxas**
+- **Levantamento próprio com dados abertos da CVM e do Banco Central (até 17/11/2026):** [levantamento-previdencias-ruins-2026.md](levantamento-previdencias-ruins-2026.md) · [planilha](dados/previdencia_piores_posfixados_2026-11.csv)
 - Money Times (04/02/2022), dados Quantum Axis / Empiricus: [5 fundos de previdência dos bancões que perdem feio do CDI](https://www.moneytimes.com.br/5-fundos-de-previdencia-dos-bancoes-que-perdem-feio-do-cdi-veja-se-voce-investe-neles/)
 - TradeMap (11/01/2022), ranking Spiti: [Taxas podem comer mais de um terço do retorno da sua previdência](https://trademap.com.br/agencia/minhas-financas/taxas-podem-comer-mais-de-um-terco-do-retorno-da-sua-previdencia-veja-cuidados-a-tomar)
 - Bahia Econômica (21/11/2021): [Veja fundos de previdência nocivos, segundo a Spiti](https://bahiaeconomica.com.br/wp/2021/11/21/veja-fundos-de-previdencia-nocivos-segundo-a-spiti/)
