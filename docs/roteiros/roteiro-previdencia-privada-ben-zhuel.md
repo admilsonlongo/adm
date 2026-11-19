@@ -208,7 +208,15 @@ Parece pouco? Olha a conta."
 **[BEN]**
 "Os relatos se repetem. Gente dizendo que o gerente **nunca falou** da taxa de carregamento, e que só descobriu no extrato. Um plano em que a própria empresa confirmou uma taxa de saída de **10%** para quem resgata ou faz portabilidade antes de 12 meses. Cliente que tomou um desconto de **2,5% no resgate** e só recebeu de volta depois de reclamar publicamente. E um plano em que a taxa de saída só zera depois do **36º mês**, prendendo o dinheiro do cliente por três anos.
 
-Pensa comigo: se você aplica R$ 100 mil e paga 5% de carregamento, você começa com R$ 95 mil. Você começa o jogo **perdendo**."
+Pensa comigo: se você aplica R$ 100 mil e paga 5% de carregamento, você começa com R$ 95 mil. Você começa o jogo **perdendo**.
+
+Agora, uma boa notícia, e eu faço questão de ser justo aqui: nos **planos novos**, o carregamento na entrada praticamente acabou. Pelos dados da SUSEP, em 2025 entraram **R$ 139 bilhões** em VGBL e as seguradoras ficaram com só **R$ 83 milhões** de carregamento. Isso dá **0,06%**.
+
+Então por que eu estou falando disso? Por dois motivos. Primeiro: muita gente está em **plano antigo**, contratado quando o carregamento era a regra, e às vezes nem sabe disso. Segundo: o carregamento **na saída** continua permitido. Tem plano de banco que cobra até **1,5%** se você resgatar ou levar o dinheiro embora no primeiro ano, e só zera depois de **três anos**.
+
+E o mais importante: o custo que mais pesa hoje não é o carregamento, é a **taxa de administração**. Só em 2025, as seguradoras arrecadaram **R$ 8,5 bilhões** com taxa de gestão de previdência. É **cem vezes mais** que o carregamento. É essa taxa que faz um fundo entregar 60% do CDI."
+
+**[TELA]** Duas barras em escala: *Carregamento em 2025: R$ 0,08 bi* × *Taxa de gestão em 2025: R$ 8,5 bi*. Fonte: SUSEP/SES.
 
 **[NOTA]** Os relatos foram levantados via buscas no Reclame Aqui (as páginas bloqueiam leitura automatizada; conferir cada uma manualmente antes de usar o print). Usar sempre como "relato de consumidor", nunca como fato comprovado. Não mostrar nome nem dados do reclamante.
 
